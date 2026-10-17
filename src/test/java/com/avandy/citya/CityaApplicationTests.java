@@ -1,4 +1,4 @@
-package com.avandy.citya3;
+package com.avandy.citya;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
